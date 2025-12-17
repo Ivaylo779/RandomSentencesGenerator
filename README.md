@@ -6,5 +6,5 @@ This generator works by picking a random element from lists that hold names, ver
 
 ## [Source code](https://github.com/Ivaylo779/RandomSentencesGenerator/blob/main/random_sentence_generator.py)
 
-## [Live Demo]()
+## [Live Demo](https://replit.com/@ivaylobrezin/RandomSentencesGenerator)
 
