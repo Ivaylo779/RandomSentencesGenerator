@@ -8,5 +8,5 @@ This generator works by picking a random element from lists that hold names, ver
 View code here: [Source code](https://github.com/Ivaylo779/RandomSentencesGenerator/blob/main/random_sentence_generator.py)
 
 ## Live Demo
-Play her: [Live Demo](https://replit.com/@ivaylobrezin/RandomSentencesGenerator)
+Play here: [Live Demo](https://replit.com/@ivaylobrezin/RandomSentencesGenerator)
 
